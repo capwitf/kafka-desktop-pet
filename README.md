@@ -4,6 +4,13 @@
 
 A lightweight Windows desktop pet that reacts to keyboard and mouse activity with a transparent, always-on-top sprite animation.
 
+<p>
+  <a href="https://github.com/capwitf/zhuoc-desktop-pet/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
+  <a href="https://github.com/capwitf/zhuoc-desktop-pet/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
+  <a href="https://github.com/capwitf/zhuoc-desktop-pet/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
+</p>
+
 ![Sprite sheet preview showing ten keyboard and game-mode animations](assets/frames_preview.png)
 
 ## 简体中文
