@@ -1,21 +1,23 @@
-# Zhuoc Desktop Pet
+# Kafka Desktop Pet | 卡芙卡桌宠
 
 [简体中文](#简体中文) | [English](#english)
 
-A lightweight Windows desktop pet that reacts to keyboard and mouse activity with a transparent, always-on-top sprite animation.
+An unofficial Kafka-themed Windows desktop pet that reacts to keyboard and mouse activity with transparent sprite animations.
 
 <p>
-  <a href="https://github.com/capwitf/zhuoc-desktop-pet/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
-  <a href="https://github.com/capwitf/zhuoc-desktop-pet/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
-  <a href="https://github.com/capwitf/zhuoc-desktop-pet/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
-  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/capwitf/zhuoc-desktop-pet?style=flat-square"></a>
+  <a href="https://github.com/capwitf/kafka-desktop-pet/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/capwitf/kafka-desktop-pet?style=flat-square"></a>
+  <a href="https://github.com/capwitf/kafka-desktop-pet/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/capwitf/kafka-desktop-pet?style=flat-square"></a>
+  <a href="https://github.com/capwitf/kafka-desktop-pet/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/capwitf/kafka-desktop-pet?style=flat-square"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/capwitf/kafka-desktop-pet?style=flat-square"></a>
 </p>
 
 ![Sprite sheet preview showing ten keyboard and game-mode animations](assets/frames_preview.png)
 
+This is an unofficial fan-made project featuring Kafka from *Honkai: Star Rail*. It is not affiliated with or endorsed by HoYoverse. The MIT license applies to the project code; character rights remain with their respective owners.
+
 ## 简体中文
 
-Zhuoc Desktop Pet 是一个 Windows 桌面宠物，会根据键盘和鼠标活动切换 PNG 动作帧。它使用普通 PNG sprite sheet，不是 Live2D。
+卡芙卡桌宠是一个 Windows 桌面宠物，会根据键盘和鼠标活动切换 PNG 动作帧。它使用普通 PNG sprite sheet，不是 Live2D。
 
 ### 功能
 
@@ -125,6 +127,8 @@ While running, the app reads key states through Windows `GetAsyncKeyState` to tr
 
 The executable is written to `dist/ZhuocDesktopPet.exe`. This locally generated binary is not included in the source repository.
 
-## License
+## 许可 | License
 
-This project is licensed under the [MIT License](LICENSE).
+项目代码采用 [MIT License](LICENSE)。卡芙卡及《崩坏：星穹铁道》相关角色知识产权仍归各自权利人所有；本项目为非官方同人作品，与 HoYoverse 无关联。
+
+The project code is licensed under the [MIT License](LICENSE). Kafka and *Honkai: Star Rail* character IP remain with their respective owners. This is an unofficial fan project and is not affiliated with HoYoverse.
